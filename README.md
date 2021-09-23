@@ -1,5 +1,5 @@
 # Contact List
-Pemro Mobile B
+Pemrograman Mobile B
 
 Fitri Dwi Alfina (192410102085) = https://github.com/ffitridwia
 
