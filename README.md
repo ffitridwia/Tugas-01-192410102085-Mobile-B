@@ -1,3 +1,6 @@
-# Nama : Fitri Dwi Alfina
-# NIM : 192410102085
-# Pemro Mobile B
+# Contact List
+Pemro Mobile B
+
+Fitri Dwi Alfina (192410102085) = https://github.com/ffitridwia
+
+Link : https://github.com/ffitridwia/tugas-01_192410102085_B/
