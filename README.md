@@ -4,3 +4,5 @@ Pemrograman Mobile B
 Fitri Dwi Alfina (192410102085) = https://github.com/ffitridwia
 
 Link : https://github.com/ffitridwia/tugas-01_192410102085_B/
+
+Note : Jangan lupa ketika menjalankan program, ketik 'flutter pub get' di terminal
