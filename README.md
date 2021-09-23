@@ -1,1 +1,3 @@
-# tugas-01_192410102085_B
+# Nama : Fitri Dwi Alfina
+# NIM : 192410102085
+# Pemro Mobile B
